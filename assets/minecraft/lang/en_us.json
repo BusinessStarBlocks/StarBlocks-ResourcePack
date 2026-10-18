@@ -1,0 +1,12 @@
+{
+  "menu.game": "",
+  "menu.returnToGame": "Back to StarBlocks",
+  "menu.options": "Options...",
+  "menu.disconnect": "Disconnect§b   §r§e   §r",
+  "container.inventory": "§fInventory",
+  "container.crafting": "§fCrafting",
+  "container.chest": "§fChest",
+  "container.chestDouble": "§fLarge Chest",
+  "container.enderchest": "§fEnder Chest",
+  "container.barrel": "§fBarrel"
+}
